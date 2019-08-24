@@ -21,6 +21,7 @@ public class Screen_Shot {
 		FileUtils.copyFile(src, new File("E:\\Workspace730_july\\screen.png"));
 
 		System.out.println("TC done");
+        dinesh
 	}
 }
 
